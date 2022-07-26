@@ -1,3 +1,3 @@
 # Glue Full Course
 
-## From Hero To Zero ##
+## From Zero To Hero ##
